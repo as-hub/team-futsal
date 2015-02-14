@@ -1,3 +1,0 @@
-[submodule "vagrant"]
-	path = vagrant
-	url = https://github.com/kenjis/vagrant-centos6-php.git
